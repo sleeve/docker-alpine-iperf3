@@ -1,2 +1,2 @@
 # docker-alpine-iperf3
-An iPerf3 Docker image based on Alpine Linux edge
+An Alpine Linux edge Docker image with an iPerf3 server.
